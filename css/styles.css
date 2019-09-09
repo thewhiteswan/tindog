@@ -68,9 +68,12 @@ p {
 
 /* Title Section */
 
+#title {
+  text-align: left;
+}
+
 #title .container-fluid {
   padding: 3% 15% 7%;
-  text-align: left;
 }
 
 /* Title Image */
